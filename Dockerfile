@@ -7,7 +7,7 @@ RUN apk update && apk add --no-cache \
   g++ \
   python \
   py-pip \
-  ccache
+  ccache \
   socat \
   bash \
   util-linux
